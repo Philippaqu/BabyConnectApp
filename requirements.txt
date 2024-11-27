@@ -1,0 +1,3 @@
+streamlit==1.27.2  # Ensure compatibility with your current version
+Pillow==10.0.1     # For working with images
+google-generativeai==0.2.0  # Replace with the specific version used, if known
